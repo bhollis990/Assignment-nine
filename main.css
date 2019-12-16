@@ -1,0 +1,22 @@
+*{
+    background-color: rgb(102, 164, 175);
+}
+.chat-stream{
+    height: 80vh;
+    background-color: rgb(102, 164, 175);
+    display: flex;
+    align-items: flex-end;
+    overflow: hidden;
+    font-size: 25px;
+    color: rgb(131, 80, 80);
+}
+#name{
+    width: 100px;
+    background-color: #ccc;
+    color: #000;
+}
+#message{
+    width: 60vw;
+    background-color: #ccc;
+    color: #000;
+}
